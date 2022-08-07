@@ -6,10 +6,10 @@ to become a developer easy:
 
 www.freecodecamp.org and their great HTML and CSS courses.
 
-Also the YouTube channels 
+Also the YouTube channels <br> 
 Web Dev Simplified, 
 JavaSript King, 
 Tech With Tim, 
-Traversy Media   
+Traversy Media <br>  
 
 for beginner lessons in JS and Python.
