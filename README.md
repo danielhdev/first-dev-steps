@@ -12,4 +12,4 @@ JavaSript King, <br>
 Tech With Tim, <br> 
 Traversy Media <br>  
 
-for beginner lessons in JS and Python.
+with beginner lessons in JS and Python.
