@@ -10,6 +10,6 @@ Also the YouTube channels
 Web Dev Simplified, 
 JavaSript King, 
 Tech With Tim, 
-Traversy Media!   
+Traversy Media   
 
-for lessons in JS and Python.
+for beginner lessons in JS and Python.
