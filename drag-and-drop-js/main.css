@@ -1,0 +1,88 @@
+:root {
+    --border-color: #e3e5e4;
+    --text-color: rgb(40, 40, 40);
+}
+
+*{
+    font-family: Poppins, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    margin: 0;
+}
+
+.draggable-list {
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+    padding: 0;
+    list-style-type: none;
+
+}
+
+.draggable-list li {
+    background-color: white;
+    display: flex;
+    flex: 1;
+}
+
+.draggable-list li:not(:last-of-type) {
+   border-bottom: 1px solid var(--border-color); 
+}
+
+.draggable-list .number {
+    background-color: salmon;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    height: 60px;
+    width: 60px; 
+}
+
+.draggable-list li.over .draggable {
+    background-color: dimgrey;
+}
+
+.draggable-list .city-name {
+    margin: 0 20px 0 0px;
+}
+
+.draggable-list li.right .city-name {
+    color: rgb(8, 195, 8);
+}
+
+.draggable-list li.wrong .city-name {
+    color: red;
+}
+
+.draggable {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    flex: 1;
+}
+
+.check-btn {
+    background-color: salmon;
+    border: none;
+    color: var(--text-color);
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.check-btn:active {
+    transform: scale(.95);
+}
+.check-btn:focus {
+    outline: none;
+}

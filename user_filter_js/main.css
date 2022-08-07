@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+  font-family: Poppins, sans-serif;
+}
+
+body {
+  background-color: rgb(250, 255, 255);
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  height: 100vh;
+  margin: 0;
+}
+.container {
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  width: 300px;
+  overflow: hidden;
+}
+
+.title {
+  margin: 10px 0 0;
+  font-size: 1.5rem;
+}
+.title .subtitle {
+  display: inline-block;
+  margin: 2px, auto;
+  opacity: 0.8;
+  font-size: 1.2rem;
+}
+
+.header {
+  background-color: rgb(196, 196, 196);
+  color: rgb(255, 255, 255);
+  padding: 30px 20px;
+  
+}
+
+.header input {
+  background-color: rgb(233, 244, 255);
+  border: 0;
+  border-radius: 50px;
+  font-size: 14px;
+  color: rgb(30, 30, 30);
+  padding: 10px 10px;
+  width: 100%;
+}
+.header input:focus {
+  outline: none;
+}
+
+.user-list {
+  background-color: rgb(254, 252, 242);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.user-list li {
+  display: flex;
+  padding: 20px;
+}
+
+.user-list img {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+}
+
+.user-list .user-info {
+  margin-left: 10px;
+}
+
+.user-list .user-info h4 {
+  margin: 0 0 10px;
+}
+.user-list .user-info p {
+  font-size: 12px;
+}
+.user-list li:not(:last-of-type) {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.user-list li.hide {
+  display: none;
+}
