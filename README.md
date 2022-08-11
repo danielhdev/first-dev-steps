@@ -1,5 +1,4 @@
 # first-dev-steps
-My first baby steps as a developer in 2022
 
 The sources helping me to learn the basics and making my decision 
 to become a developer easy: 
