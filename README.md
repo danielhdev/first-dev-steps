@@ -7,11 +7,12 @@ www.freecodecamp.org and their great HTML and CSS courses.<br>
 https://javascript.info/ great interactive JS course.
 
 Also the YouTube channels <br> 
-Web Dev Simplified, <br> 
-JavaSript King, <br> 
-Tech With Tim, <br> 
+Web Dev Simplified <br> 
+JavaSript King <br> 
+Tech With Tim <br> 
 Traversy Media <br>
 Code Commerce <br>
-JavaScript Mastery 
+JavaScript Mastery <br>
+Kevin Powell 
  
-providing days of JS/Python/React etc. practice projects.
+providing days of CSS/JS/Python/React etc. practice projects.
