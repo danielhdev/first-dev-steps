@@ -3,7 +3,7 @@
 The sources helping me to learn the basics and making my decision 
 to become a developer easy: 
 
-www.freecodecamp.org and their great HTML and CSS courses.
+www.freecodecamp.org and their great HTML and CSS courses.<b>
 https://javascript.info/ great interactive JS course.
 
 Also the YouTube channels <br> 
