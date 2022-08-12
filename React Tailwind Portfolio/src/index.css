@@ -3,10 +3,50 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;500;700&display=swap')
-@layer base {
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;500;700&display=swap');
 
-    h1, h2, p, button {
-        font-family: Manrope, sans-serif;
-    }
+h1,
+h2,
+p,
+button {
+  font-family: Manrope, sans-serif;
+}
+
+.heroleft {
+  @apply bg-maroon rounded-xl flex flex-[50%] flex-col justify-center 
+    items-center h-full w-full;
+}
+
+.heroright {
+  @apply bg-teal w-full h-full flex-[50%] flex 
+    flex-col-reverse justify-center items-center rounded-lg;
+}
+
+.herobtn {
+  @apply font-bold text-2xl h-[100px] w-[200px]
+    text-teal bg-yellow pt-3 pb-3 pl-4 pr-4 mb-4 
+    rounded-md hover:bg-orange-600 hover:delay-300
+     hover:text-gray-200;
+}
+
+.bgnavy {
+  @apply h-screen w-screen overflow-hidden 
+    bg-cover bg-navy flex flex-col justify-evenly items-center 
+    md:flex-row;
+}
+
+.navcontainer {
+  @apply bg-slate-100/20 flex justify-between fixed top-0 left-0 h-[50px] w-full
+    rounded-md;
+}
+
+.navlinks {
+  @apply text-slate-100 px-8 text-xl hover:text-yellow;
+}
+.navlinksm {
+  @apply text-slate-100 text-4xl hover:text-yellow;
+}
+.mNavbarVisible {
+  @apply absolute top-0 left-0 w-full h-screen flex flex-col bg-teal 
+    justify-center gap-y-10 items-center;
 }

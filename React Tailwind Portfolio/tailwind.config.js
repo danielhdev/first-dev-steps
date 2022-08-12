@@ -4,11 +4,16 @@ module.exports = {
   theme: {
     extend: {
         backgroundImage: {
-          "heroimage": "url('./assets/balloonsBLUE.png')",
-          "workimage": "url('./assets/work1backround.png')",
-          "footerimage": "url('./assets/footersky.png')",
+          "dumbbell": "url('./assets/dumbbell.png')",
+          
 },
+        colors: {
+          "navy": '#050636',
+          "teal": '#66b2b2',
+          "yellow": '#e6df17',
+          "maroon": "#cd0000"
 
+  },
 },
   },
   plugins: [],
