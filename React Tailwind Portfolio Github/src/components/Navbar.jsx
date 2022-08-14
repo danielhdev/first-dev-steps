@@ -8,12 +8,12 @@ const Navbar = () => {
   return (
     <nav className="navcontainer">
       <div>
-        <h1 className="visible px-4 pt-1 pb-1 font-bold text-3xl text-slate-100">
+        <h1 className="px-4 font-bold text-2xl md:text-3xl text-slate-100 ml-3">
           danielhdev
         </h1>
       </div>
 
-      <ul className="hidden md:flex items-center px-4">
+      <ul className="hidden md:flex items-center px-4 mr-3">
         <li>
           {' '}
           <a href="#home" className="navlinks">
@@ -42,7 +42,7 @@ const Navbar = () => {
 
       <div
         onClick={handleClick}
-        className="md:hidden z-10 flex items-center pr-3"
+        className="md:hidden z-20 flex items-center pr-3"
       >
         {!navM ? <FaBars /> : <FaTimes />}
       </div>

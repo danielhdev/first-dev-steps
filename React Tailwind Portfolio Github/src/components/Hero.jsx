@@ -1,27 +1,25 @@
 import React from 'react';
-import ScrollDown from '../assets/scrolldown.png';
 
-const Hero = () => {
+function Hero() {
   return (
-    <div id="home" className="bgnavy">
-      <div className="heroleft">
-        <h1 className="text-[2rem] md:text-[4rem] font-black text-gray-200">
+    <div id="home" className="bghero">
+      <div className="herocontainer">
+        <h1 className="text-4xl md:text-[6vw] font-black text-gray-100">
           WEBDEVELOPER
         </h1>
-        <p className="text-1xl md:text-2xl font-semibold mt-6 text-gray-200">
+        <p className="text-1xl text-center font-black md:text-3xl mt-9 text-gray-100">
           {' '}
-          Frontend / Backend / React / Node
+          Tackling Problems With Code
         </p>
-      </div>
-      <div className="heroright">
+        <p className="text-2xl text-center md:text-[3vw] font-light mt-4 text-gray-100">
+          {' '}
+          Frontend / Backend / React.js / Node.js
+        </p>
+
         <button className="herobtn">Learn More</button>
-        <img
-          src={ScrollDown}
-          className="animate-bounce h-[100px] w-[100px] mb-2"
-        ></img>
       </div>
     </div>
   );
-};
+}
 
 export default Hero;
