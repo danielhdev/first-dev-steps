@@ -2,8 +2,9 @@ Screenshots taken from my beginner projects that I finished before I decided to 
 From the very first HTLM sites to React projects within about three months.
 
 
-![_C__Users_dhueb_A20Exercises_First20HTML20Two20Eddy_index html(Samsung Galaxy A51_71)](https://user-images.githubusercontent.com/105037901/184554481-27adeb8c-d0b2-465e-ad99-233630b69ed1.png)
-![_C__Users_dhueb_A20Exercises_First20Tool20Page_index html(Samsung Galaxy A51_71)](https://user-images.githubusercontent.com/105037901/184554483-a2e00599-a593-40eb-a331-c209bb49a71e.png)
+![_C__Users_dhueb_A20Exercises_First20HTML20Two20Eddy_index html(Samsung Galaxy A51_71)](https://user-images.githubusercontent.com/105037901/184554670-9af1c21a-8d3c-4ab4-8b4b-30e8a95613d8.png)
+![_C__Users_dhueb_A20Exercises_First20Tool20Page_index html(Samsung Galaxy A51_71)](https://user-images.githubusercontent.com/105037901/184554675-a6efcdda-def9-4996-8094-6852071bea63.png)
+
 
 ![Beginner 3](https://user-images.githubusercontent.com/105037901/184552022-53506501-4fb2-4e45-8d89-76b2dd4a4aee.PNG)
 ![Beginner 4](https://user-images.githubusercontent.com/105037901/184552024-f2d6a414-5ec8-4389-b505-412f7b6b3d5c.png)
