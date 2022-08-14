@@ -1,5 +1,5 @@
 Screenshots taken from my beginner projects that I finished before I decided to become a developer.
-From the very first HTLM sites to React projects.
+From the very first HTLM sites to React projects within about three months.
 
 ![Beginner 1](https://user-images.githubusercontent.com/105037901/184552017-750a55d5-d229-4a37-8ab9-8bf06fe44263.PNG)
 ![Beginner 2](https://user-images.githubusercontent.com/105037901/184552021-d2653926-94d3-4783-a07e-7a354a281629.PNG)
