@@ -1,4 +1,4 @@
-Screenshots taken from my beginner projects that helped my decision to become a developer.
+Screenshots taken from my beginner projects before I decided to become a developer.
 All designs by myself.
 ![Beginner 1](https://user-images.githubusercontent.com/105037901/184552017-750a55d5-d229-4a37-8ab9-8bf06fe44263.PNG)
 ![Beginner 2](https://user-images.githubusercontent.com/105037901/184552021-d2653926-94d3-4783-a07e-7a354a281629.PNG)
