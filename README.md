@@ -11,10 +11,10 @@ From the very first HTML sites to React projects within about three months.
 <b>React practice project</b>
 ![Beginner 5](https://user-images.githubusercontent.com/105037901/184552025-210e20d3-c2b2-4a12-9ad3-5efbb047e765.png)
 <br/>
-<b>User filter using the Random User API (JavaScript)</b>
+<b>User filter featuring the Random User API (JavaScript)</b>
 ![Beginner 3](https://user-images.githubusercontent.com/105037901/184552022-53506501-4fb2-4e45-8d89-76b2dd4a4aee.PNG)
 <br/>
-<b>Blurred to clear Loading screen with progress in % (JavaScript</b>) 
+<b>Blurred to clear loading screen with progress in % (JavaScript</b>) 
 ![Beginner 4](https://user-images.githubusercontent.com/105037901/184552024-f2d6a414-5ec8-4389-b505-412f7b6b3d5c.png)
 <br/>
 <b>Join pop up with blurred background (JavaScript)</b>
