@@ -12,7 +12,5 @@ From the very first HTML sites to React projects within about three months.
 ![Beginner 4](https://user-images.githubusercontent.com/105037901/184552024-f2d6a414-5ec8-4389-b505-412f7b6b3d5c.png)
 <br/>
 ![Beginner 8](https://user-images.githubusercontent.com/105037901/184552229-06da4498-eb50-4d07-b614-a25e15944523.PNG)
-<br/>
-![_C__Users_dhueb_A20Exercises_First20HTML20Two20Eddy_index html(Samsung Galaxy A51_71)](https://user-images.githubusercontent.com/105037901/184554670-9af1c21a-8d3c-4ab4-8b4b-30e8a95613d8.png)
 
 
