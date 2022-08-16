@@ -1,6 +1,7 @@
 Screenshots taken from my beginner projects that I finished before I decided to become a developer.
 From the very first HTML sites to React projects within about three months.
 <br/>
+<br/>
 <b>Portfolio template (React/ Tailwind)</b>
 ![Beginner 7](https://user-images.githubusercontent.com/105037901/184552225-1ccfccc5-8acd-4c73-a822-08d4b335bee6.PNG)
 <br/>
