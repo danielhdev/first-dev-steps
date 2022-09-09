@@ -1,5 +1,4 @@
 Screenshots taken from my beginner projects that I finished before I decided to become a developer.
-
 <br/>
 <br/>
 404 page animation with React, TailwindCSS and GreenSock animation library
