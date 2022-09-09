@@ -2,6 +2,8 @@ Screenshots taken from my beginner projects that I finished before I decided to 
 From the very first HTML sites to React projects within about three months.
 <br/>
 <br/>
+404 page animation with React, TailwindCSS and GreenSock animation library
+![404 gif 1](https://user-images.githubusercontent.com/105037901/189420571-c9a531c1-b1fd-46b5-9289-a6ff259debfa.gif)
 <b>Portfolio template (React/ Tailwind)</b>
 ![Beginner 7](https://user-images.githubusercontent.com/105037901/184552225-1ccfccc5-8acd-4c73-a822-08d4b335bee6.PNG)
 <br/>
