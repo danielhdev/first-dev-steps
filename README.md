@@ -1,7 +1,7 @@
 Screenshots taken from my beginner projects that I finished before I decided to become a developer.
 <br/>
 <br/>
-404 page animation with React, TailwindCSS and GreenSock animation library
+<b>404 page (React, TailwindCSS and GreenSock animation library)</b>
 ![404 gif 1](https://user-images.githubusercontent.com/105037901/189420571-c9a531c1-b1fd-46b5-9289-a6ff259debfa.gif)
 <br/>
 <b>Portfolio template (React/ Tailwind)
@@ -9,9 +9,6 @@ Screenshots taken from my beginner projects that I finished before I decided to 
 <br/>
 <b>Fanpage (HTML)</b>
 ![_C__Users_dhueb_A20Exercises_First20Tool20Page_index html(Samsung Galaxy A51_71)](https://user-images.githubusercontent.com/105037901/184554675-a6efcdda-def9-4996-8094-6852071bea63.png)
-<br/>
-<b>React practice project</b>
-![Beginner 5](https://user-images.githubusercontent.com/105037901/184552025-210e20d3-c2b2-4a12-9ad3-5efbb047e765.png)
 <br/>
 <b>User filter featuring the Random User API (JavaScript)</b>
 ![Beginner 3](https://user-images.githubusercontent.com/105037901/184552022-53506501-4fb2-4e45-8d89-76b2dd4a4aee.PNG)
