@@ -12,6 +12,7 @@ Screenshots taken from my beginner projects that I finished before I decided to 
 <br/>
 <b>Blurred to clear loading screen with progress in % (JavaScript</b>) 
 ![fade in bg](https://user-images.githubusercontent.com/105037901/189868833-8f10e472-ea53-47b5-b73a-4edd1d3a463e.gif)
+<br/>
 <b>Fanpage (HTML)</b>
 ![_C__Users_dhueb_A20Exercises_First20Tool20Page_index html(Samsung Galaxy A51_71)](https://user-images.githubusercontent.com/105037901/184554675-a6efcdda-def9-4996-8094-6852071bea63.png)
 <br/>
