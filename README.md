@@ -6,6 +6,7 @@ Screenshots taken from my beginner projects that I finished before I decided to 
 <br/>
 <b>Join pop up with blurred background (JavaScript)</b>
 ![join pop up](https://user-images.githubusercontent.com/105037901/189868707-b3623757-5f53-4c6d-9944-a5ec86da3b46.gif)
+<br/>
 <b>Portfolio template (React/ Tailwind)
 ![Beginner 7](https://user-images.githubusercontent.com/105037901/184552225-1ccfccc5-8acd-4c73-a822-08d4b335bee6.PNG)
 <br/>
