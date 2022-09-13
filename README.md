@@ -14,9 +14,10 @@ Screenshots taken from my beginner projects that I finished before I decided to 
 ![Beginner 3](https://user-images.githubusercontent.com/105037901/184552022-53506501-4fb2-4e45-8d89-76b2dd4a4aee.PNG)
 <br/>
 <b>Blurred to clear loading screen with progress in % (JavaScript</b>) 
-![Beginner 4](https://user-images.githubusercontent.com/105037901/184552024-f2d6a414-5ec8-4389-b505-412f7b6b3d5c.png)
+![join pop up](https://user-images.githubusercontent.com/105037901/189868707-b3623757-5f53-4c6d-9944-a5ec86da3b46.gif)
 <br/>
 <b>Join pop up with blurred background (JavaScript)</b>
-![Beginner 8](https://user-images.githubusercontent.com/105037901/184552229-06da4498-eb50-4d07-b614-a25e15944523.PNG)
+![fade in bg](https://user-images.githubusercontent.com/105037901/189868833-8f10e472-ea53-47b5-b73a-4edd1d3a463e.gif)
+
 
 
