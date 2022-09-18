@@ -9,4 +9,5 @@ My Journey from writing the first lines of HTML to projects in React and Tailwin
 <br/>
 ![fade in bg](https://user-images.githubusercontent.com/105037901/190900773-271d796e-19c9-4c4e-b1f0-48ada88f6ab9.gif)
 <br/>
+![Beginner 2](https://user-images.githubusercontent.com/105037901/190900802-4d5fb30d-a2ce-4e28-a872-9e5774966ac5.PNG
 
